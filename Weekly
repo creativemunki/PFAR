@@ -1,5 +1,4 @@
-
-    <!doctype html>
+  <!doctype html>
     <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
       <head>
         <title>
@@ -366,12 +365,12 @@
               </tr>
             
               <tr>
-                <td align="center" style="font-size:0px;padding:10px 25px;padding-top:30px;word-break:break-word;">
+                <td align="center" style="font-size:0px;padding:30px 0 10px 0;word-break:break-word;">
                   
       <p style="border-top:solid 1px #BE9A5E;font-size:1px;margin:0px auto;width:100%;">
       </p>
       
-      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #BE9A5E;font-size:1px;margin:0px auto;width:550px;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp;
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #BE9A5E;font-size:1px;margin:0px auto;width:600px;" role="presentation" width="600px" ><tr><td style="height:0;line-height:0;"> &nbsp;
 </td></tr></table><![endif]-->
     
     
@@ -910,12 +909,21 @@
       </div>
     
       
-      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <!--[if mso | IE]></td></tr></table><![endif]-->
     
-      
-      <div style="background:#BE9A5E;background-color:#BE9A5E;margin:0px auto;max-width:600px;">
+    
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#BE9A5E;background-color:#BE9A5E;width:100%;">
+        <tbody>
+          <tr>
+            <td>
+              
         
-        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#BE9A5E;background-color:#BE9A5E;width:100%;">
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+        
+      <div style="margin:0px auto;max-width:600px;">
+        
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
           <tbody>
             <tr>
               <td style="direction:ltr;font-size:0px;padding:0;text-align:center;">
@@ -947,9 +955,14 @@
         
       </div>
     
-      
+        
       <!--[if mso | IE]></td></tr></table><![endif]-->
     
+      
+            </td>
+          </tr>
+        </tbody>
+      </table>
     <!-- Social Icons -->
       
       <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
